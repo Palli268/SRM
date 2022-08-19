@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Container1",
+        "color": "skyblue",
+        "items": [
+            {
+                "name": "item1",
+                "color": "blue"
+            },
+            {
+                "name": "item2",
+                "color": "blue"
+            },
+            {
+                "name": "item3",
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "name": "Container2",
+        "color": "orange",
+        "items": [
+            {
+                "name": "item4",
+                "color": "blue"
+            },
+            {
+                "name": "item5",
+                "color": "blue"
+            },
+            {
+                "name": "item6",
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "name": "Container3",
+        "color": "grey",
+        "items": [
+            {
+                "name": "item7",
+                "color": "blue"
+            },
+            {
+                "name": "item8",
+                "color": "blue"
+            },
+            {
+                "name": "item9",
+                "color": "blue"
+            }
+        ]
+    }
+]
