@@ -22,6 +22,6 @@
     </div>
 </div>
 
-<button [disabled]="allItems.length>0" (click)="submit()" type="button" >Submit</button>
+<button style="margin: 20px;" [disabled]="allItems.length>0" (click)="submit()" type="button" >Submit</button>
 
-<button *ngIf="viewReTry" (click)="reTry()" type="button" >Retry</button>
+<button style="margin: 20px;" *ngIf="viewReTry" (click)="reTry()" type="button" >Retry</button>

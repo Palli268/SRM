@@ -59,11 +59,10 @@ pre {
   cursor: move;
   display: flex;
   box-sizing: border-box;
-  flex-grow: 1;
   justify-content: center;
   margin: .25em;
   padding: .25em;
-  width: 200px;
+  width: 250px;
   height: 50px;
 }
 
